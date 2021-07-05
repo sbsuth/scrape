@@ -1,0 +1,15 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "Get stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^10.0.0"
+  }
+}
