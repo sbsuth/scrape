@@ -1,0 +1,42 @@
+Ticker,Name,Class,Sub class,Start Year,Fees,Pri
+BND,Vanguard Total Bond Market ETF,Bonds,Intermediate Core,2007,0.61%,2
+LQD,iShares iBoxx $ Invmt Grade Corp Bd ETF,Bonds,Government,2002,0.14%,1
+BIV,Vanguard Interm-Term Bond ETF,Bonds,Intermediate Core,2007,0.05%,2
+AGG,iShares Core U.S. Aggregate Bond ETF,Bonds,Intermediate Core,2003,0.04%,1
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Bonds,High Yield,2007,0.48%,2
+JNK,"SPDR® Bloomberg Barclays High Yield Bond ETF",Bonds,High Yield,2007,0.40%,2
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Bonds,Government,2010,0.05%,2
+VGIT,Vanguard Intermediate-Term Treasury Index Fund ETF Shares,Bonds,Government,2009,0.05%,2
+XLF,Financial Select Sector SPDR ETF,Financial,,1998,0.12%,1
+IYG,iShares U.S. Financial Services ETF,Financial,,2000,0.42%,2
+VHT,Vanguard Health Care ETF,Healthcare,,2004,0.10%,2
+VGTSX,Vanguard Total International Stock Index Fund,International,,1996,0.17%,1
+ADRE,Invesco BLDRS Emerging Markets 50 ADR,International,,2002,0.30%,2
+IOO,iShares Global 100 ETF,International,,2000,0.40%,2
+IUSV,iShares Core S&P U.S. Value ETF,Large cap,value,2000,0.04%,2
+IVV,iShares Core S&P 500,Large cap,blend,2000,0.03%,1
+VTSMX,Vanguard Total Stock Market Fund,Large cap,blend,1992,0.14%,2
+IVW,iShares S&P 500 Growth ETF,Large cap,Growth,2000,0.18%,2
+XLG,Invesco S&P 500 Top 50 ETF,Large cap,blend,2005,0.20%,2
+IWY,iShares Russell Top 200 Growth ETF,Large cap,Growth,2009,0.15%,2
+QQQ,Invesco QQQ Trust,Large cap,Growth,1999,0.20%,2
+SPYG,SPDR® Portfolio S&P 500 Growth ETF,Large cap,Growth,2000,0.04%,1
+IJH,iShares Core S&P Mid-Cap ETF,Mid cap,blend,2000,0.05%,2
+IWR,iShares Russell Mid-Cap ETF,Mid cap,blend,2001,0.02%,1
+XLB,Materials Select Sector SPDR ETF,Natural resources,,1998,0.12%,2
+IAU,iShares Gold Trust,Natural resources,Gold,2005,0.25%,2
+DBB,Invesco DB Base Metals,Natural resources,Metals,2007,0.75%,2
+PALL,Aberdeen Standard Phys PalladiumShrs ETF,Natural resources,Palladium,2010,0.60%,2
+GLD,SPDR Gold Shares,Natural resources,Gold,2004,0.40%,1
+SLV,iShares Silver Trust,Natural resources,Silver,2006,0.50%,2
+PHO,Invesco Water Resources ETF,Natural resources,Water,2005,0.60%,2
+PFF,iShares Preferred and Income Securities ETF,Preferred,,2007,0.46%,2
+PSR,Invesco Active U.S. Real Estate Fund,Real Estate,,2008,0.35%,2
+VNQ,Vanguard Real Estate ETF,Real Estate,,2004,0.12%,1
+REZ,"iShares Residential and Multisector Real Estate ETF",Real Estate,,2007,0.48%,2
+IJS,iShares S&P 600 Small Cap Value,Small Cap,Value,2000,0.18%,2
+IJT,iShares S&P Small-Cap 600 Growth ETF,Small cap,Growth,2000,0.18%,1
+VBK,Vanguard Small-Cap Growth ETF,Small cap,Growth,2004,0.07%,2
+SOXX,iShares Semiconductor ETF,Technology,,2001,0.46%,1
+VGT,Vanguard Information Technology ETF,Technology,,2004,0.10%,2
+XLK,Technology Select Sector SPDR ETF,Technology,,1998,0.12%,2
