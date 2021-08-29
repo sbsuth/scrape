@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "csv-parser": "^3.0.0",
     "prompt-sync": "^4.2.0",
     "puppeteer": "^10.0.0"
   }
