@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "csv-parser": "^3.0.0",
+    "data-store": "^4.0.3",
+    "mongodb": "^4.0.1",
+    "monk": "^7.3.4",
     "prompt-sync": "^4.2.0",
     "puppeteer": "^10.0.0"
   }
